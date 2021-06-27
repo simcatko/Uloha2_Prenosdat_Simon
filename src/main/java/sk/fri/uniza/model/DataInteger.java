@@ -5,8 +5,10 @@ import com.fasterxml.jackson.annotation.JsonTypeName;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 
+@Entity
 public class DataInteger extends AbstractData<Integer> {
 
+    @Column(name = "integer_value")
     private Integer Value;
 
     @Override
