@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cffba6cf-f145-4c81-9bf4-9901bbad5cb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/health/DeleteHealthCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HouseHoldService.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/HouseHoldServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/HouseHoldServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/HouseHoldServiceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/HouseHoldServiceConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/db/DataDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/db/DataDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/db/FieldDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/db/FieldDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/db/HouseHoldDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/db/HouseHoldDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/health/DatabaseHealthCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/health/DatabaseHealthCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/AbstractData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/AbstractData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/ContactPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/ContactPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/DataDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/DataDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/DataInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/DataInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/DataString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/DataString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/HouseHold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/HouseHold.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/resources/FieldResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/resources/FieldResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/db/IotNodeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/db/IotNodeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/IotNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/model/IotNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/resources/HouseHoldResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/resources/HouseHoldResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/resources/IoTNodeResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/fri/uniza/resources/IoTNodeResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,19 +40,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +48,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624800913010</updated>
-      <workItem from="1624800930602" duration="7437000" />
+      <workItem from="1624800930602" duration="10720000" />
+      <workItem from="1624877684491" duration="1009000" />
     </task>
     <servers />
   </component>

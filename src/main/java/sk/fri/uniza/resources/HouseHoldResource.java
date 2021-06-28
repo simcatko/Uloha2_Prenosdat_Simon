@@ -82,7 +82,6 @@ public class HouseHoldResource {
     @POST /*JAX-RS*/
     @UnitOfWork //Otvorí novú hibernate session // Dropwizard
     @ApiOperation(value = "Pridanie novej domácnosti")
-
     public HouseHold createHouseHold(@Valid HouseHold houshold) {
         return houseHoldDAO.create(houshold);
     }
